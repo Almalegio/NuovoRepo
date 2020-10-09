@@ -7,6 +7,7 @@ namespace ProgAlma.Entity
     class Entita1
     {
         string appo = "Test Versione Nuova b";
+string appo1 = "Alf prova txt";
          string appo2 = "Test Versione Nuova testo prova";
     }
 }
