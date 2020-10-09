@@ -10,5 +10,6 @@ namespace ProgAlma.Entity
         string appo1 = "Alf prova txt BR1";
         string appo2 = "Test Versione Nuova testo prova";
 
+
     }
 }
